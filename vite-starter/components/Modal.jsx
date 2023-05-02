@@ -18,7 +18,7 @@ const Modal = () => {
             type="button"
             className="btn confirm-btn"
           >
-            Confirm
+            Confir
           </button>
           <button
             onClick={() => dispatch(closeModal())}
